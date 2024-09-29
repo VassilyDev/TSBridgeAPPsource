@@ -1,0 +1,15 @@
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\bin\Release\TrainSimulatorBridge.exe.config
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\bin\Release\TrainSimulatorBridge.exe
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\bin\Release\TrainSimulatorBridge.pdb
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\bin\Release\Sharer.dll
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\bin\Release\Sharer.pdb
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\bin\Release\Sharer.xml
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Release\TrainSimulatorBridge.csproj.AssemblyReference.cache
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Release\TrainSimulatorBridge.Form1.resources
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Release\TrainSimulatorBridge.Properties.Resources.resources
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Release\TrainSimulatorBridge.csproj.GenerateResource.cache
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Release\TrainSimulatorBridge.csproj.CoreCompileInputs.cache
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Release\TrainSimulatorBridge.csproj.CopyComplete
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Release\TrainSimulatorBridge.exe
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Release\TrainSimulatorBridge.pdb
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Release\TrainSimulatorBridge.csproj.SuggestedBindingRedirects.cache

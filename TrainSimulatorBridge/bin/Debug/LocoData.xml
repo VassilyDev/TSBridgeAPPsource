@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locos>
+  <loco id="ICE3 A driving">
+    <thr>VirtualThrottle</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="DB BR 426a">
+    <thr>ThrottleAndBrake</thr>
+    <brk></brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="MA DB Baureihe 101 Engine">
+    <thr>VirtualThrottle</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="0-4-0ST Invincible">
+    <thr>Regulator</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="7F Engine">
+    <thr>Regulator</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="ACS-64 Amtrak">
+    <thr>ThrottleAndBrake</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Acela PowerCar">
+    <thr>VirtualThrottle</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="DB Baureihe 101 Engine">
+    <thr>Regulator</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="BR294 Engine">
+    <thr>ThrottleAndBrake</thr>
+    <brk>EngineBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Black5 Engine">
+    <thr>Regulator</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Class 101 DMBS Regional">
+    <thr>Regulator</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Class166 DMOCL">
+    <thr>ThrottleAndBrake</thr>
+    <brk></brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Class 365 DMOC A">
+    <thr>ThrottleAndBrake</thr>
+    <brk></brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Class 37 BR Blue">
+    <thr>Regulator</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Class 47 BR Blue">
+    <thr>Regulator</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Class 483 DMSO LT">
+    <thr>VirtualThrottle</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="BR Blue Class 55">
+    <thr>Regulator</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Class 801 DPTS1">
+    <thr>ThrottleAndBrake</thr>
+    <brk></brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Dash 8 40CW">
+    <thr>ThrottleAndBrake</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="NYNH SD40-2 CSX">
+    <thr>VirtualThrottle</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="ETR500_FrecciaRossa_AV">
+    <thr>Regulator</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Mi P42DC Amtrak PhV">
+    <thr>ThrottleAndBrake</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Intercity Class 43">
+    <thr>Regulator</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="ICE T CabCar 411.0">
+    <thr>VirtualThrottle</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="OBB 1016">
+    <thr>VirtualThrottle</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Personnel Carrier">
+    <thr>Regulator</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="RhB ABe 8-12 Allegra BEX EWB">
+    <thr>VirtualThrottle</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="V200 Red">
+    <thr>Regulator</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+
+</locos>

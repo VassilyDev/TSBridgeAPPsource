@@ -1,0 +1,14 @@
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\bin\Debug\TrainSimulatorBridge.exe
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\bin\Debug\TrainSimulatorBridge.pdb
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Debug\TrainSimulatorBridge.csproj.AssemblyReference.cache
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Debug\TrainSimulatorBridge.Form1.resources
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Debug\TrainSimulatorBridge.Properties.Resources.resources
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Debug\TrainSimulatorBridge.csproj.GenerateResource.cache
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Debug\TrainSimulatorBridge.csproj.CoreCompileInputs.cache
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Debug\TrainSimulatorBridge.exe
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Debug\TrainSimulatorBridge.pdb
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\bin\Debug\TrainSimulatorBridge.exe.config
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\bin\Debug\Sharer.pdb
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\bin\Debug\Sharer.xml
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Debug\TrainSimulatorBridge.csproj.CopyComplete
+C:\Users\afeli\Desktop\Progetti\controllerTRAIN\VisualStudio\TrainSimulatorBridge\TrainSimulatorBridge\obj\Debug\TrainSimulatorBridge.csproj.SuggestedBindingRedirects.cache
